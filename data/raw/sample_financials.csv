@@ -1,0 +1,5 @@
+company,ticker,country,fiscal_year,revenue,net_income,total_debt,total_assets,currency,source_type,data_status
+Alpha Technologies,SIMUS,US,2023,100000000,20000000,30000000,150000000,USD,synthetic,synthetic
+Alpha Technologies,SIMUS,US,2024,120000000,25000000,28000000,170000000,USD,synthetic,synthetic
+Beta Systems,SIMIN,India,2023,5000000000,600000000,1000000000,8000000000,INR,synthetic,synthetic
+Beta Systems,SIMIN,India,2024,5500000000,700000000,900000000,9000000000,INR,synthetic,synthetic
